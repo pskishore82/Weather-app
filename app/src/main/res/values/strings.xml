@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">weather app</string>
+    <string name="current_temperature">%1$s°C</string>
+</resources>
